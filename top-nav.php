@@ -1,6 +1,5 @@
  <header id="header">
     <div class="container">
-
       <div id="logo" class="pull-left">
         <a href="index.html"><img src="img/logo-nav.png" alt="" title="" /></img></a>
         <!-- Uncomment below if you prefer to use a text image -->

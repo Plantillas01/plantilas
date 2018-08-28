@@ -89,8 +89,8 @@
     <img alt="Bell - A perfect theme" class="gadgets-img hidden-md-down" src="img/gadgets.png">
   </div>
   <!-- /Parallax -->
-  <!-- Features -->
 
+  <!-- Features -->
   <section class="features" id="features">
     <div class="container">
       <h2 class="text-center">
@@ -223,6 +223,7 @@
     </div>
   </section>
   <!-- /Features -->
+
   <!-- Call to Action -->
 
   <section class="cta">
@@ -245,8 +246,9 @@
     </div>
   </section>
   <!-- /Call to Action -->
-  <!-- Portfolio -->
 
+
+  <!-- Portfolio -->
   <section class="portfolio" id="portfolio">
     <div class="container text-center">
       <h2>
@@ -401,6 +403,7 @@
     </div>
   </section>
   <!-- /Portfolio -->
+
   <!-- Team -->
 
   <section class="team" id="team">
@@ -510,7 +513,7 @@
   </section>
   <!-- /Team -->
   <!-- @component: footer -->
-
+  
   <section id="contact">
     <div class="container">
       <div class="row">
@@ -569,6 +572,7 @@
       </div>
     </div>
   </section>
+
   <?php include("footer.php"); ?>
   <a class="scrolltop" href="#"><span class="fa fa-angle-up"></span></a>
 

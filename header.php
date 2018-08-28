@@ -1,3 +1,4 @@
+<!-- Header -->
 <head>
   <meta charset="utf-8">
   <title>Freelancers</title>
@@ -41,3 +42,5 @@
     Author URL: https://bootstrapmade.com
   ======================================================= -->
 </head>
+
+<!-- #header -->

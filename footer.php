@@ -14,7 +14,7 @@
                 Licensing information: https://bootstrapmade.com/license/
                 Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Bell
               -->
-             Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+             Designed by <a href="https://bootstrapmade.com/">Luis Palma</a>
             </div>
           </div>
 
