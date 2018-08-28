@@ -94,21 +94,21 @@
   <section class="features" id="features">
     <div class="container">
       <h2 class="text-center">
-          Features
-        </h2>
+          Haz que tu proyecto empiece ahora...
+      </h2>
 
       <div class="row">
         <div class="feature-col col-lg-4 col-xs-12">
           <div class="card card-block text-center">
             <div>
-              <div class="feature-icon">
-                <span class="fa fa-rocket"></span>
+              <div class="feature-icon fa-2x mt-2">
+                <span class="fa fa-desktop"></span>
               </div>
             </div>
 
             <div>
               <h3>
-                  Custom Design
+                  Diseño Web
               </h3>
 
               <p>
@@ -122,14 +122,14 @@
           <div class="card card-block text-center">
             <div>
               <div class="feature-icon">
-                <span class="fa fa-envelope"></span>
+                <i class="fa fa-pencil fa-0x mt-2" aria-hidden="true"></i>
               </div>
             </div>
 
             <div>
               <h3>
-                  Responsive Layout
-                </h3>
+                  Diseño Gráfico
+              </h3>
 
               <p>
                 Eque feugiat contentiones ei has. Id summo mundi explicari his, nec in maiorum scriptorem.
@@ -142,14 +142,14 @@
           <div class="card card-block text-center">
             <div>
               <div class="feature-icon">
-                <span class="fa fa-bell"></span>
+                <i class="fa fa-mobile fa-2x mt-2" aria-hidden="true"></i>
               </div>
             </div>
 
             <div>
               <h3>
-                  Innovative Ideas
-                </h3>
+                  Aplicacion Movil
+              </h3>
 
               <p>
                 Eque feugiat contentiones ei has. Id summo mundi explicari his, nec in maiorum scriptorem.
@@ -159,19 +159,19 @@
         </div>
       </div>
 
-      <div class="row">
+      <div class="row  justify-content-md-center">
         <div class="feature-col col-lg-4 col-xs-12">
           <div class="card card-block text-center">
             <div>
               <div class="feature-icon">
-                <span class="fa fa-database"></span>
+                <i class="fa fa-bullhorn" aria-hidden="true"></i>
               </div>
             </div>
 
             <div>
               <h3>
-                  Good Documentation
-                </h3>
+                  Marcketing en Internet
+              </h3>
 
               <p>
                 Eque feugiat contentiones ei has. Id summo mundi explicari his, nec in maiorum scriptorem.
@@ -179,48 +179,6 @@
             </div>
           </div>
         </div>
-
-        <div class="feature-col col-lg-4 col-xs-12">
-          <div class="card card-block text-center">
-            <div>
-              <div class="feature-icon">
-                <span class="fa fa-cutlery"></span>
-              </div>
-            </div>
-
-            <div>
-              <h3>
-                  Excellent Features
-                </h3>
-
-              <p>
-                Eque feugiat contentiones ei has. Id summo mundi explicari his, nec in maiorum scriptorem.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div class="feature-col col-lg-4 col-xs-12">
-          <div class="card card-block text-center">
-            <div>
-              <div class="feature-icon">
-                <span class="fa fa-dashboard"></span>
-              </div>
-            </div>
-
-            <div>
-              <h3>
-                  Retina Ready
-                </h3>
-
-              <p>
-                Eque feugiat contentiones ei has. Id summo mundi explicari his, nec in maiorum scriptorem.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
   </section>
   <!-- /Features -->
 
@@ -513,7 +471,7 @@
   </section>
   <!-- /Team -->
   <!-- @component: footer -->
-  
+
   <section id="contact">
     <div class="container">
       <div class="row">
